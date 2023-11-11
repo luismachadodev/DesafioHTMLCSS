@@ -123,12 +123,14 @@ body {
   font-size: 38px;
   color: #FFF;
   margin-bottom: 18px;
+  padding: 0 14px;
 }
 
 .description {
   max-width: 400px;
   line-height: 150%;
   color: #FFF;
+  padding: 0 14px;
 }
 
 .form::before {
